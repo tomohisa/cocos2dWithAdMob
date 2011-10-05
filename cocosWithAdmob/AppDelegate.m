@@ -211,7 +211,7 @@
                                                    GAD_SIZE_320x50.height)];
     
     // Specify the ad's "unit identifier." This is your AdMob Publisher ID.
-    gadBannerView.adUnitID = @"a14d60da4e893c1";
+    gadBannerView.adUnitID = @"YOUR_ADMOB_PUBLISHER_ID";
     
     // Let the runtime know which UIViewController to restore after taking
     // the user wherever the ad goes and add it to the view hierarchy.

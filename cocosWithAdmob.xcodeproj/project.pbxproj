@@ -1062,6 +1062,7 @@
 				014E7D4B143CCC8700C4B90F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
