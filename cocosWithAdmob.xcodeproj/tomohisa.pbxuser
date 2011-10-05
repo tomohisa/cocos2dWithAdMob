@@ -1,0 +1,88 @@
+// !$*UTF8*$!
+{
+	014E7BCE143CCC8400C4B90F /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 01AE7B37143D1C1C00634A2E /* cocosWithAdmob */;
+		activeTarget = 014E7BD6143CCC8500C4B90F /* cocosWithAdmob */;
+		codeSenseManager = 01AE7B57143D1C2400634A2E /* Code sense */;
+		executables = (
+			01AE7B37143D1C1C00634A2E /* cocosWithAdmob */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 339549213;
+			PBXWorkspaceStateSaveDate = 339549213;
+		};
+		sourceControlManager = 01AE7B56143D1C2400634A2E /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	014E7BD6143CCC8500C4B90F /* cocosWithAdmob */ = {
+		activeExec = 0;
+		executables = (
+			01AE7B37143D1C1C00634A2E /* cocosWithAdmob */,
+		);
+	};
+	01AE7B37143D1C1C00634A2E /* cocosWithAdmob */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = cocosWithAdmob;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	01AE7B56143D1C2400634A2E /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	01AE7B57143D1C2400634A2E /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
