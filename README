@@ -1,0 +1,12 @@
+cocos2dWithAdMob
+
+This is sample app for cocos2d with AdMob. AdMob has some kind of Ads and some directly kick AppStore and other open in App Ads. This sample controls startAnimation and StopAnimation and handle animation correctly. This is publish as MIT license same as cocos2d. If you use for real app, please let me know. tomohisa.takaoka [at] gmail [dot] com or http://twitter.com/tomohisa Hope you would enjoy it.
+
+Thanks for the help for cocos forum.
+
+* Author 
+Tomohisa Takaoka
+http://twitter.com/#!/tomohisa
+
+* License
+MIT license
